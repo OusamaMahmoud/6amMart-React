@@ -31,13 +31,16 @@ const background = {
 const divider = "#E6E8F0";
 
 const primary = {
-  main: "#039D55",
-  deep: "#026034",
+  // main: "#039D55",
+  main: "#006AFF", // dreamBox Blue
+  // deep: "#026034",
+  deep: "#1B70E7", // dreamBox Blue
   light: "#EBFDF2",
   dark: "#1c6641",
   semiLight: "#E4FFF3",
   contrastText: "#FFFFFF",
-  customType1: "#0DCB72",
+  // customType1: "#0DCB72",
+  customType1: "#4793FF", // dreamBox Blue
   customType2: "#3BB77E",
   customType3: "#29CE00",
   overLay: "#000000",

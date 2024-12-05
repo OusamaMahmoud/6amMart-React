@@ -71,7 +71,6 @@ export const getServerSideProps = async (context) => {
       },
     }
   );
-  console.log("Osos =>", configRes);
   const config = await configRes.json();
 
   // Set cache control headers for 1 hour (3600 seconds)

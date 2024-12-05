@@ -6,7 +6,7 @@ const HeroBgSvg = () => {
   return (
     <svg
       width="1240"
-      height="504"
+      height="fit"
       viewBox="0 0 1240 504"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
